@@ -1,3 +1,3 @@
 'use strict';
 
-console.log('Hello worl');
+console.log('Hell worlds');
