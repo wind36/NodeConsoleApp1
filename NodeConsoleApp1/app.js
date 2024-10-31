@@ -17,3 +17,8 @@ function calculate(operation, num1, num2) {
             return 'Invalid operation';
     }
 }
+
+console.log(calculate('add', 5, 3));       // Результат: 8
+console.log(calculate('subtract', 5, 3));  // Результат: 2
+console.log(calculate('multiply', 5, 3));  // Результат: 15
+console.log(calculate('divide', 6, 3));    // Результат: 2
